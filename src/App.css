@@ -1,0 +1,16 @@
+.img {
+  width: 200px;
+  height: 200px;
+}
+.Card {
+  display: flex;
+  flex-direction: column;
+}
+
+.hide {
+  display: none;
+}
+.header{
+  display: flex;
+  justify-content: center;
+}
